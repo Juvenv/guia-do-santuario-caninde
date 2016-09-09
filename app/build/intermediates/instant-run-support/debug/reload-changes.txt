@@ -1,0 +1,5 @@
+CHANGED,/home/kessi/StudioProjects/GuiadoSantuarioCaninde/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/kessi/StudioProjects/GuiadoSantuarioCaninde/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/kessi/guiadosantuariocaninde/MainActivity$override.class
+CHANGED,/home/kessi/StudioProjects/GuiadoSantuarioCaninde/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/kessi/guiadosantuariocaninde/MainActivity$3$override.class
+CHANGED,/home/kessi/StudioProjects/GuiadoSantuarioCaninde/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/kessi/guiadosantuariocaninde/MainActivity$2$1$override.class
+CHANGED,/home/kessi/StudioProjects/GuiadoSantuarioCaninde/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/kessi/guiadosantuariocaninde/MainActivity$2$override.class

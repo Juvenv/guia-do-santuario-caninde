@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">371841702075-gm1skkgcg0rb2gri7m32em1odmb9sapf.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://guiasantuariocaninde.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">371841702075</string>
+    <string name="google_api_key" translatable="false">AIzaSyAfI6IRqxmsR4SNhmiXX_KUNJUBXA0bqf8</string>
+    <string name="google_app_id" translatable="false">1:371841702075:android:a546b9fea293496b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAfI6IRqxmsR4SNhmiXX_KUNJUBXA0bqf8</string>
+    <string name="google_storage_bucket" translatable="false">guiasantuariocaninde.appspot.com</string>
+</resources>

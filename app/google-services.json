@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "371841702075",
+    "firebase_url": "https://guiasantuariocaninde.firebaseio.com",
+    "project_id": "guiasantuariocaninde",
+    "storage_bucket": "guiasantuariocaninde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371841702075:android:a546b9fea293496b",
+        "android_client_info": {
+          "package_name": "com.example.kessi.guiadosantuariocaninde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371841702075-gm1skkgcg0rb2gri7m32em1odmb9sapf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfI6IRqxmsR4SNhmiXX_KUNJUBXA0bqf8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
